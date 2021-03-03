@@ -1,10 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using BeerLibrary;
+using BeerLib;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BeerLibrary.Tests
+namespace BeerLib.Tests
 {
     [TestClass()]
     public class BeerTests
