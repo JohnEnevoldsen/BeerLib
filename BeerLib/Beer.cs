@@ -69,10 +69,9 @@ namespace BeerLib
             }
             _abv = abv;
         }
-
-        public override string ToString()
+        public Beer()
         {
-            return base.ToString();
+
         }
     }
 }
